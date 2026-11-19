@@ -5,7 +5,7 @@ Thème enfant de [Kadence](https://www.kadencewp.com/kadence-theme/) pour le sit
 ## Installation
 
 1. Installez et activez le thème gratuit **Kadence** (Apparence > Thèmes > Ajouter).
-2. Téléchargez `daveprocode.zip` depuis la dernière [version publiée](../../releases/latest).
+2. Téléchargez le zip de la dernière version (bouton **Code > Download ZIP**, ou l'archive de la dernière [étiquette](../../tags)).
 3. Apparence > Thèmes > Ajouter > Téléverser un thème, puis activez **Dave Procode**.
 
 ## Mises à jour
@@ -16,10 +16,11 @@ Les pages, réglages Yoast SEO, coordonnées et messages du site ne sont jamais 
 
 ## Publier une nouvelle version
 
-1. Augmentez la version dans `style.css` et dans `functions.php` (`DP_VERSION`).
-2. Créez le zip du dossier `daveprocode/` (sans `update.json` ni `README.md`).
-3. Publiez une *release* GitHub `vX.Y.Z` avec le fichier `daveprocode.zip` en pièce jointe.
-4. Mettez à jour `update.json` (`version` et `package`).
+1. Augmentez la version dans `style.css` et dans `functions.php` (`DP_VERSION`), puis publiez le code.
+2. Créez l'étiquette `vX.Y.Z` (`git tag vX.Y.Z && git push origin vX.Y.Z`).
+3. Mettez à jour `update.json` (`version`, et `package` = `…/archive/refs/tags/vX.Y.Z.zip`).
+
+WordPress télécharge l'archive de l'étiquette ; le thème remet automatiquement le dossier au bon nom pendant l'installation.
 
 ## Crédits
 
