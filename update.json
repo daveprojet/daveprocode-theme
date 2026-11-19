@@ -1,7 +1,7 @@
 {
   "version": "1.4.5",
-  "package": "https://github.com/daveprojet/daveprocode-theme/archive/refs/tags/v1.4.5.zip",
-  "url": "https://github.com/daveprojet/daveprocode-theme/tree/v1.4.5",
+  "package": "https://github.com/daveprojet/daveprocode-theme/archive/refs/heads/version-1.4.5.zip",
+  "url": "https://github.com/daveprojet/daveprocode-theme/tree/version-1.4.5",
   "requires": "6.6",
   "requires_php": "7.4",
   "notes": "Mises à jour en un clic, bouton Yoast, bandeau de logos clients, correctifs d'affichage."

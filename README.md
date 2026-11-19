@@ -5,7 +5,7 @@ Thème enfant de [Kadence](https://www.kadencewp.com/kadence-theme/) pour le sit
 ## Installation
 
 1. Installez et activez le thème gratuit **Kadence** (Apparence > Thèmes > Ajouter).
-2. Téléchargez le zip de la dernière version (bouton **Code > Download ZIP**, ou l'archive de la dernière [étiquette](../../tags)).
+2. Téléchargez le zip de la dernière version (bouton **Code > Download ZIP**, ou l'archive de la dernière branche `version-X.Y.Z`).
 3. Apparence > Thèmes > Ajouter > Téléverser un thème, puis activez **Dave Procode**.
 
 ## Mises à jour
@@ -17,10 +17,10 @@ Les pages, réglages Yoast SEO, coordonnées et messages du site ne sont jamais 
 ## Publier une nouvelle version
 
 1. Augmentez la version dans `style.css` et dans `functions.php` (`DP_VERSION`), puis publiez le code.
-2. Créez l'étiquette `vX.Y.Z` (`git tag vX.Y.Z && git push origin vX.Y.Z`).
-3. Mettez à jour `update.json` (`version`, et `package` = `…/archive/refs/tags/vX.Y.Z.zip`).
+2. Créez la branche `version-X.Y.Z` à partir de `main` et publiez-la.
+3. Mettez à jour `update.json` (`version`, et `package` = `…/archive/refs/heads/version-X.Y.Z.zip`).
 
-WordPress télécharge l'archive de l'étiquette ; le thème remet automatiquement le dossier au bon nom pendant l'installation.
+WordPress télécharge l'archive de cette branche ; le thème remet automatiquement le dossier au bon nom pendant l'installation.
 
 ## Crédits
 
