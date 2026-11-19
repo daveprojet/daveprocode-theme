@@ -1,0 +1,16 @@
+/*
+Theme Name:   Dave Procode
+Theme URI:    https://daveprocode.com/
+Description:  Thème enfant Kadence pour Dave Procode, solutions digitales à Dakar, conforme à la charte graphique 2025. Design, pages, menus et formulaires prêts à l'emploi. Après activation : Apparence > Installation Dave Procode.
+Author:       Dave Procode
+Author URI:   https://daveprocode.com/
+Template:     kadence
+Version:      1.4.5
+Requires at least: 6.6
+Requires PHP: 7.4
+Tested up to: 7.1
+License:      GPL-2.0-or-later
+Text Domain:  daveprocode
+*/
+
+/* Le style principal est dans assets/css/site.css (chargé par functions.php). */

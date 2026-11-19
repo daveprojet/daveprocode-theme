@@ -1,0 +1,104 @@
+THÈME DAVE PROCODE — thème enfant Kadence
+=========================================
+
+INSTALLATION (10 minutes)
+
+0. Sauvegardez le site (extension gratuite UpdraftPlus : Réglages > Sauvegardes > Sauvegarder maintenant).
+
+1. Installez le thème parent Kadence (gratuit)
+   Apparence > Thèmes > Ajouter > rechercher « Kadence » > Installer.
+   Inutile de l'activer.
+
+2. Téléversez ce thème
+   Apparence > Thèmes > Ajouter > Téléverser un thème > choisir daveprocode.zip > Installer > Activer.
+
+3. Lancez l'installation du contenu
+   Apparence > Installation Dave Procode
+   a) Vérifiez vos coordonnées (téléphone, WhatsApp, e-mail…) et cliquez « Enregistrer les coordonnées ».
+   b) Cochez « J'ai fait une sauvegarde » puis cliquez « Installer le contenu ».
+
+4. Vérifiez le site, puis videz le cache si vous utilisez une extension de cache.
+
+CE QUE FAIT L'INSTALLATION
+- Crée : Accueil, Nos services, Marketing digital, Nos projets, Bricolibe (dans Nos projets),
+  Ventures, Carrières, Mentions légales, Politique de confidentialité.
+- Remplace le contenu de « À propos » (devient « Qui sommes-nous »), « Contact » et
+  « Création d'applications » (devient « Développement d'applications web et mobiles »).
+  L'ancien contenu est sauvegardé et restaurable.
+- Conserve vos pages Création de sites web, UI/UX, Logo et charte graphique, SEO, Formations,
+  ainsi que vos articles.
+- Passe en brouillon « Agence de communication à Dakar » et « Cartes de visites »,
+  avec redirection 301 vers /services/ et /logo-et-charte-graphique/.
+- Crée le menu (Services, Nos projets, Le Groupe, Actualités), applique les couleurs de la
+  charte graphique dans Kadence, ajoute le bouton « Nous contacter » et reprend votre logo actuel.
+
+BLOG
+Les deux articles de l'ancien site (« Différence entre UI et UX Design » et « C'est quoi la charte
+graphique ? ») sont créés avec leurs images s'ils n'existent pas déjà. S'ils existent déjà sur votre
+site, ils sont conservés tels quels (aucun doublon) ; une image de couverture leur est ajoutée s'ils
+n'en avaient pas. Ils apparaissent sur l'accueil et sur la page Blog.
+
+BARRE D'ANNONCE
+Le bandeau orange en haut du site se modifie dans Apparence > Installation Dave Procode
+(champ « Barre d'annonce » ; laisser vide pour la masquer).
+
+IMAGES
+L'installation ajoute une quarantaine d'images à la médiathèque : photos de marque Dave Procode et
+photos libres de droits (Pexels, licence gratuite pour usage commercial, sans mention obligatoire).
+Conseil : remplacez-les progressivement par de vraies photos de votre équipe et de vos projets.
+
+NOUVEAU EN 1.4
+- Pages de services refaites (sites web, applications, marketing, UI/UX, identité visuelle, SEO) :
+  photo et garanties, menu de section, prestations, inclus, méthode, formules, FAQ, devis.
+- Page Formations : catalogue, programme détaillé de chaque formation, parcours, formats et
+  formulaire d'inscription. Le bouton « S'inscrire » d'une formation la présélectionne.
+- Page Portfolio : vos réalisations avec filtres par type (Réalisations > Ajouter).
+- Contact, Carrières, Ventures, Nos projets et Bricolibe refaites.
+- Accueil et Qui sommes-nous : inchangées.
+
+METTRE À JOUR UNE SEULE PAGE (sans relancer l'installation)
+Le dossier « codes-des-pages » contient le code de chaque page. Thème 1.4 activé, ouvrez la page,
+menu ⋮ > Éditeur de code, remplacez tout le contenu par le code, puis Mettre à jour.
+Détails dans 00-MODE-D-EMPLOI.txt.
+
+FORMULAIRES ET E-MAILS PRO
+Apparence > Installation Dave Procode > « E-mails des formulaires » : une adresse de réception par
+formulaire (plusieurs possibles, séparées par des virgules), nom et adresse d'expédition, réglages
+SMTP de votre messagerie pro et bouton « Envoyer un e-mail de test ». Chaque demande est aussi
+enregistrée dans le menu « Messages reçus ».
+
+ANNULER
+Apparence > Installation Dave Procode > « Annuler l'installation » : restaure les anciennes pages,
+l'ancienne page d'accueil et les anciens menus. Vous pouvez aussi réactiver Astra à tout moment.
+
+AU QUOTIDIEN
+- Messages des formulaires : menu « Messages reçus » (et par e-mail).
+  Si les e-mails n'arrivent pas, installez l'extension gratuite « WP Mail SMTP ».
+- Ajouter un projet au portfolio : menu « Réalisations > Ajouter ».
+- Nouveau projet ou nouvelle page de service : Pages > Ajouter > icône « + » > Compositions > Dave Procode > « Fiche produit complète ».
+- Couleurs : Apparence > Personnaliser > Couleurs et polices (palette globale).
+- Formulaires dans une page : bloc « Code court » avec
+  [dp_form type="devis"]  [dp_form type="contact"]  [dp_form type="ventures"]
+  [dp_form type="carriere"]  [dp_form type="newsletter"]
+  Autres codes : [dp_contact]  [dp_realisations count="6"]
+
+À COMPLÉTER APRÈS L'INSTALLATION
+- Mentions légales : forme juridique, NINEA, RCCM, directeur de publication, hébergeur.
+- Politique de confidentialité : date de mise à jour.
+- Réalisations : vos premiers projets (avec l'accord des clients).
+
+EXTENSIONS CONSEILLÉES (gratuites)
+- Yoast SEO (déjà installé) : titres et descriptions des pages remplis automatiquement.
+- LiteSpeed Cache ou WP Super Cache, Converter for Media (images WebP), UpdraftPlus, Wordfence.
+- À désactiver : LoftLoader (écran de chargement) et Spectra si vous ne l'utilisez plus.
+
+CHARTE GRAPHIQUE
+Couleurs : bleu #0d7ad3, orange #C65A10, bleus marine #001730 à #294D6D.
+Titres : Archivo. Texte : Calibri (Carlito, son équivalent libre, est chargé pour les appareils
+qui n'ont pas Calibri). Motif graphique de la charte en filigrane des sections bleu marine.
+
+COMPATIBILITÉ
+WordPress 6.6 ou plus (testé sur 7.0.8 et 7.1), PHP 7.4 ou plus, thème parent Kadence 1.6.
+
+Licences : Archivo et Carlito sous SIL Open Font License (assets/fonts), icônes Lucide (ISC),
+icônes sociales Simple Icons (CC0).

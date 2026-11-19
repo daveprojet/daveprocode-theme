@@ -1,0 +1,1024 @@
+{
+ "version": "2026-11-18",
+ "pages": [
+  {
+   "name": "Accueil",
+   "paths": [
+    "accueil"
+   ],
+   "type": "page",
+   "kw": "solutions digitales",
+   "title": "Solutions digitales à Dakar : web, mobile | Dave Procode",
+   "desc": "Solutions digitales à Dakar : Dave Procode crée vos sites web, applications mobiles, logos et campagnes. Devis gratuit sous 48 h.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "Disponibles pour de nouveaux projets",
+     "new": "Solutions digitales · disponibles pour vos projets"
+    },
+    {
+     "type": "h",
+     "old": "Tout ce qu'il faut pour réussir en ligne",
+     "new": "Des <em>solutions digitales</em> pour réussir en ligne"
+    },
+    {
+     "type": "h",
+     "old": "Des solutions pensées pour votre secteur",
+     "new": "Des solutions digitales <em>pensées pour votre secteur</em>"
+    },
+    {
+     "type": "h",
+     "old": "Commerce et e-commerce",
+     "new": "Solutions digitales pour le commerce"
+    },
+    {
+     "type": "h",
+     "old": "Éducation et formation",
+     "new": "Solutions digitales pour l'éducation"
+    },
+    {
+     "type": "h",
+     "old": "BTP et immobilier",
+     "new": "Solutions digitales pour le BTP et l'immobilier"
+    },
+    {
+     "type": "h",
+     "old": "Transport et logistique",
+     "new": "Solutions digitales pour le transport"
+    },
+    {
+     "type": "h",
+     "old": "Restauration et hôtellerie",
+     "new": "Solutions digitales pour la restauration"
+    },
+    {
+     "type": "h",
+     "old": "Santé et bien-être",
+     "new": "Solutions digitales pour la santé"
+    },
+    {
+     "type": "h",
+     "old": "Associations et ONG",
+     "new": "Solutions digitales pour les associations"
+    },
+    {
+     "type": "h",
+     "old": "Services financiers",
+     "new": "Solutions digitales pour la finance"
+    },
+    {
+     "type": "h",
+     "old": "Une grande vision, née à Dakar",
+     "new": "Des solutions digitales <em>nées à Dakar</em>"
+    },
+    {
+     "type": "h",
+     "old": "Des outils éprouvés, choisis pour durer",
+     "new": "Des outils éprouvés <em>pour vos solutions digitales</em>"
+    },
+    {
+     "type": "h",
+     "old": "Vos questions, nos réponses",
+     "new": "Vos questions sur nos <em>solutions digitales</em>"
+    },
+    {
+     "type": "h",
+     "old": "Prêt à lancer votre projet ?",
+     "new": "Prêt à lancer vos <em>solutions digitales</em> ?"
+    },
+    {
+     "type": "alt",
+     "old": "OCLA – Observatoire Congolais de Lutte contre l'Apatridie",
+     "new": "Logo du client OCLA, Observatoire Congolais de Lutte contre l'Apatridie",
+     "count": 1
+    },
+    {
+     "type": "alt",
+     "old": "Sefin Petroleum Corporation",
+     "new": "Logo du client Sefin Petroleum Corporation",
+     "count": 1
+    },
+    {
+     "type": "alt",
+     "old": "The Store",
+     "new": "Logo du client The Store",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "Nos services",
+   "paths": [
+    "services"
+   ],
+   "type": "page",
+   "kw": "nos services",
+   "title": "Nos services digitaux à Dakar | Dave Procode",
+   "desc": "Nos services digitaux à Dakar : sites web, applications, marketing, UI/UX, logo et SEO. Une seule équipe, un devis gratuit sous 48 h.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Six expertises, une vision d'ensemble",
+     "new": "Nos services : six expertises, <em>une vision d'ensemble</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une équipe complète, à vos côtés",
+     "new": "Nos services portés par <em>une équipe complète</em>"
+    },
+    {
+     "type": "h",
+     "old": "Des solutions pensées pour votre secteur",
+     "new": "Nos services <em>pensés pour votre secteur</em>"
+    },
+    {
+     "type": "h",
+     "old": "Commerce et e-commerce",
+     "new": "Nos services pour le commerce"
+    },
+    {
+     "type": "h",
+     "old": "Éducation et formation",
+     "new": "Nos services pour l'éducation"
+    },
+    {
+     "type": "h",
+     "old": "BTP et immobilier",
+     "new": "Nos services pour le BTP et l'immobilier"
+    },
+    {
+     "type": "h",
+     "old": "Transport et logistique",
+     "new": "Nos services pour le transport"
+    },
+    {
+     "type": "h",
+     "old": "Restauration et hôtellerie",
+     "new": "Nos services pour la restauration"
+    },
+    {
+     "type": "h",
+     "old": "Santé et bien-être",
+     "new": "Nos services pour la santé"
+    },
+    {
+     "type": "h",
+     "old": "Associations et ONG",
+     "new": "Nos services pour les associations"
+    },
+    {
+     "type": "h",
+     "old": "Services financiers",
+     "new": "Nos services pour la finance"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur <em>nos services</em>"
+    }
+   ]
+  },
+  {
+   "name": "Création de sites web",
+   "paths": [
+    "creation-de-sites-web"
+   ],
+   "type": "page",
+   "kw": "sites web",
+   "title": "Sites web à Dakar : création vitrine et e-commerce",
+   "desc": "Création de sites web à Dakar : site vitrine, e-commerce avec Wave et Orange Money, design sur mesure et SEO. Devis gratuit sous 48 h.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Tout ce qu'il faut pour un site qui convertit",
+     "new": "Des sites web <em>qui convertissent</em>"
+    },
+    {
+     "type": "h",
+     "old": "Un site complet, prêt à l'emploi",
+     "new": "Des sites web complets, <em>prêts à l'emploi</em>"
+    },
+    {
+     "type": "h",
+     "old": "Le site adapté à votre objectif",
+     "new": "Des sites web <em>adaptés à votre objectif</em>"
+    },
+    {
+     "type": "h",
+     "old": "Site vitrine",
+     "new": "Sites web vitrines"
+    },
+    {
+     "type": "h",
+     "old": "Site institutionnel",
+     "new": "Sites web institutionnels"
+    },
+    {
+     "type": "h",
+     "old": "Votre site en 5 étapes claires",
+     "new": "La création de vos sites web <em>en 5 étapes</em>"
+    },
+    {
+     "type": "h",
+     "old": "Des formules pour chaque ambition",
+     "new": "Des formules de sites web <em>pour chaque ambition</em>"
+    },
+    {
+     "type": "h",
+     "old": "Site sur mesure",
+     "new": "Sites web sur mesure"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur les <em>sites web</em>"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "Applications web et mobiles",
+   "paths": [
+    "applications-web-et-mobiles",
+    "creation-dapplications"
+   ],
+   "type": "page",
+   "kw": "applications web et mobiles",
+   "title": "Applications web et mobiles à Dakar | Dave Procode",
+   "desc": "Applications web et mobiles à Dakar : Android, iOS, paiement Wave et Orange Money, tableaux de bord. Cahier des charges offert.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Gagnez du temps, pilotez mieux votre activité",
+     "new": "Applications web et mobiles : <em>gagnez du temps</em>"
+    },
+    {
+     "type": "h",
+     "old": "Des fonctionnalités pensées pour l'Afrique",
+     "new": "Des applications web et mobiles <em>pensées pour l'Afrique</em>"
+    },
+    {
+     "type": "h",
+     "old": "Ce que nous pouvons construire pour vous",
+     "new": "Les applications web et mobiles <em>que nous construisons</em>"
+    },
+    {
+     "type": "h",
+     "old": "Gestion et ventes",
+     "new": "Applications web et mobiles de gestion"
+    },
+    {
+     "type": "h",
+     "old": "Réservation",
+     "new": "Applications web et mobiles de réservation"
+    },
+    {
+     "type": "h",
+     "old": "Du cahier des charges à la mise en ligne",
+     "new": "Vos applications web et mobiles, <em>du cahier des charges à la mise en ligne</em>"
+    },
+    {
+     "type": "h",
+     "old": "Choisissez votre point de départ",
+     "new": "Nos formules d'<em>applications web et mobiles</em>"
+    },
+    {
+     "type": "h",
+     "old": "Web + mobile",
+     "new": "Applications web et mobiles"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur les <em>applications web et mobiles</em>"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "Marketing digital",
+   "paths": [
+    "marketing-digital"
+   ],
+   "type": "page",
+   "kw": "marketing digital",
+   "title": "Marketing digital à Dakar : réseaux sociaux et publicité",
+   "desc": "Marketing digital à Dakar : community management, publicité Facebook, Instagram et TikTok, contenus. Audit offert de vos réseaux.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Des actions concrètes, des résultats mesurés",
+     "new": "Marketing digital : <em>des actions concrètes</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une présence en ligne qui vous ressemble",
+     "new": "Un marketing digital <em>qui vous ressemble</em>"
+    },
+    {
+     "type": "h",
+     "old": "Présents sur les bons canaux",
+     "new": "Un marketing digital <em>sur les bons canaux</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une visibilité construite pas à pas",
+     "new": "Votre marketing digital, <em>construit pas à pas</em>"
+    },
+    {
+     "type": "h",
+     "old": "Choisissez votre rythme",
+     "new": "Nos formules de <em>marketing digital</em>"
+    },
+    {
+     "type": "h",
+     "old": "Essentiel",
+     "new": "Marketing digital Essentiel"
+    },
+    {
+     "type": "h",
+     "old": "Croissance",
+     "new": "Marketing digital Croissance"
+    },
+    {
+     "type": "h",
+     "old": "Sur mesure",
+     "new": "Marketing digital sur mesure"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur le <em>marketing digital</em>"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "UI/UX design (maquettes)",
+   "paths": [
+    "maquette-dapplications"
+   ],
+   "type": "page",
+   "kw": "maquette",
+   "title": "Maquette d'application et UI/UX design à Dakar",
+   "desc": "Maquette d'application, prototype cliquable et UI/UX design à Dakar : validez vos écrans avant le développement. Devis gratuit.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "UI/UX design",
+     "new": "Maquette et UI/UX design"
+    },
+    {
+     "type": "h",
+     "old": "Une bonne expérience, c'est plus de clients",
+     "new": "Une bonne maquette, <em>c'est plus de clients</em>"
+    },
+    {
+     "type": "h",
+     "old": "De l'idée au prototype cliquable",
+     "new": "De l'idée à la maquette <em>et au prototype cliquable</em>"
+    },
+    {
+     "type": "h",
+     "old": "Maquettes UI",
+     "new": "Maquette UI"
+    },
+    {
+     "type": "h",
+     "old": "Des fichiers clairs et exploitables",
+     "new": "Une maquette <em>claire et exploitable</em>"
+    },
+    {
+     "type": "h",
+     "old": "Ce que nous concevons",
+     "new": "Une maquette <em>pour chaque support</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une conception méthodique",
+     "new": "Une maquette <em>conçue avec méthode</em>"
+    },
+    {
+     "type": "h",
+     "old": "Maquettes",
+     "new": "Maquette"
+    },
+    {
+     "type": "h",
+     "old": "Prototype d'application",
+     "new": "Maquette et prototype d'application"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur la <em>maquette</em> et l'UI/UX"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "Logo et charte graphique",
+   "paths": [
+    "logo-et-charte-graphique"
+   ],
+   "type": "page",
+   "kw": "logo et charte graphique",
+   "title": "Logo et charte graphique à Dakar | Dave Procode",
+   "desc": "Logo et charte graphique à Dakar : identité visuelle complète, cartes de visite et supports pour une marque forte. Devis gratuit.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "Identité visuelle",
+     "new": "Logo et charte graphique"
+    },
+    {
+     "type": "h",
+     "old": "Une identité complète et cohérente",
+     "new": "Logo et charte graphique : <em>une identité cohérente</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une charte graphique clé en main",
+     "new": "Un logo et une charte graphique <em>clés en main</em>"
+    },
+    {
+     "type": "h",
+     "old": "Votre marque sur tous les supports",
+     "new": "Votre logo et votre charte graphique <em>sur tous les supports</em>"
+    },
+    {
+     "type": "h",
+     "old": "La création de votre marque",
+     "new": "La création de votre logo et de votre <em>charte graphique</em>"
+    },
+    {
+     "type": "h",
+     "old": "Charte",
+     "new": "Logo et charte graphique"
+    },
+    {
+     "type": "h",
+     "old": "Des formules pour chaque marque",
+     "new": "Logo et charte graphique : <em>nos formules</em>"
+    },
+    {
+     "type": "h",
+     "old": "Identité complète",
+     "new": "Logo et charte graphique complète"
+    },
+    {
+     "type": "h",
+     "old": "Refonte de marque",
+     "new": "Refonte du logo et de la charte graphique"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur le <em>logo et la charte graphique</em>"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "Référencement SEO",
+   "paths": [
+    "referencement-seo-a-dakar"
+   ],
+   "type": "page",
+   "kw": "référencement SEO",
+   "title": "Référencement SEO à Dakar : soyez visible sur Google",
+   "desc": "Référencement SEO à Dakar : audit, optimisation technique, contenus et SEO local pour être trouvé sur Google. Diagnostic offert.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Une stratégie SEO complète",
+     "new": "Un référencement SEO <em>complet</em>"
+    },
+    {
+     "type": "h",
+     "old": "Référencement local",
+     "new": "Référencement SEO local"
+    },
+    {
+     "type": "h",
+     "old": "Un travail visible et mesurable",
+     "new": "Un référencement SEO <em>visible et mesurable</em>"
+    },
+    {
+     "type": "h",
+     "old": "Le SEO pour votre situation",
+     "new": "Le référencement SEO <em>adapté à votre situation</em>"
+    },
+    {
+     "type": "h",
+     "old": "Un référencement méthodique",
+     "new": "Un référencement SEO <em>méthodique</em>"
+    },
+    {
+     "type": "h",
+     "old": "Des formules adaptées à vos objectifs",
+     "new": "Nos formules de <em>référencement SEO</em>"
+    },
+    {
+     "type": "h",
+     "old": "Accompagnement",
+     "new": "Accompagnement en référencement SEO"
+    },
+    {
+     "type": "h",
+     "old": "SEO local",
+     "new": "Référencement SEO local"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur le <em>référencement SEO</em>"
+    },
+    {
+     "type": "caption",
+     "img": "Conseillère Dave Procode",
+     "new": "Une conseillère vous répond sous 48 h ouvrées."
+    }
+   ]
+  },
+  {
+   "name": "Formations informatiques",
+   "paths": [
+    "formations-informatiques"
+   ],
+   "type": "page",
+   "kw": "formations informatiques",
+   "title": "Formations informatiques à Dakar : web et design",
+   "desc": "Formations informatiques à Dakar ou en ligne : développement web, infographie, UI/UX design et bureautique. Inscription en ligne.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Choisissez votre formation",
+     "new": "Choisissez parmi nos <em>formations informatiques</em>"
+    },
+    {
+     "type": "h",
+     "old": "Formations sur mesure pour les entreprises",
+     "new": "Formations informatiques <em>sur mesure pour les entreprises</em>"
+    },
+    {
+     "type": "h",
+     "old": "Votre parcours, de l'inscription à l'emploi",
+     "new": "Nos formations informatiques, <em>de l'inscription à l'emploi</em>"
+    },
+    {
+     "type": "h",
+     "old": "Apprenez comme il vous convient",
+     "new": "Des formations informatiques <em>à votre rythme</em>"
+    },
+    {
+     "type": "h",
+     "old": "Présentiel à Dakar",
+     "new": "Formations informatiques en présentiel à Dakar"
+    },
+    {
+     "type": "h",
+     "old": "En ligne",
+     "new": "Formations informatiques en ligne"
+    },
+    {
+     "type": "h",
+     "old": "En entreprise",
+     "new": "Formations informatiques en entreprise"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur nos <em>formations informatiques</em>"
+    },
+    {
+     "type": "h",
+     "old": "Réservez votre place",
+     "new": "Inscription aux <em>formations informatiques</em>"
+    },
+    {
+     "type": "h",
+     "old": "Apprendre ensemble",
+     "new": "Apprendre ensemble pendant nos formations informatiques"
+    },
+    {
+     "type": "alt",
+     "old": "Développement web et no-code",
+     "new": "Programme de la formation développement web et no-code",
+     "nth": 2
+    },
+    {
+     "type": "alt",
+     "old": "Infographie et design graphique",
+     "new": "Programme de la formation infographie et design graphique",
+     "nth": 2
+    },
+    {
+     "type": "alt",
+     "old": "UI/UX design",
+     "new": "Programme de la formation UI/UX design",
+     "nth": 2
+    },
+    {
+     "type": "alt",
+     "old": "Bureautique (Word, Excel, PowerPoint)",
+     "new": "Programme de la formation bureautique Word, Excel et PowerPoint",
+     "nth": 2
+    },
+    {
+     "type": "caption",
+     "img": "Apprenants en formation",
+     "new": "Réponse sous 48 h avec le programme et les dates."
+    }
+   ]
+  },
+  {
+   "name": "Portfolio",
+   "paths": [
+    "portfolio"
+   ],
+   "type": "page",
+   "kw": "portfolio",
+   "title": "Portfolio : nos réalisations à Dakar | Dave Procode",
+   "desc": "Portfolio Dave Procode : sites web, applications, identités visuelles et campagnes réalisés pour nos clients à Dakar et en Afrique.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Une sélection de nos travaux",
+     "new": "Notre portfolio : <em>une sélection de nos travaux</em>"
+    },
+    {
+     "type": "after",
+     "old": "Filtrez par type de projet pour découvrir nos réalisations.",
+     "new": "Ce portfolio rassemble des projets réels menés par l'équipe Dave Procode : sites vitrines et boutiques en ligne, applications web et mobiles, identités visuelles complètes et campagnes sur les réseaux sociaux. Pour chaque réalisation, vous découvrez le contexte du client, la solution que nous avons conçue et le résultat obtenu. Vous y trouverez aussi bien des projets pour des entreprises de Dakar que pour des organisations ailleurs en Afrique. Utilisez les filtres pour n'afficher que les sites web, les applications ou les identités de marque. Par ailleurs, si votre secteur n'y figure pas encore, contactez-nous : nous adaptons notre méthode à chaque activité, et votre projet pourrait bientôt rejoindre ce portfolio."
+    },
+    {
+     "type": "h",
+     "old": "Ce que chaque projet a en commun",
+     "new": "Ce que chaque projet du portfolio <em>a en commun</em>"
+    },
+    {
+     "type": "h",
+     "old": "Comment nous travaillons",
+     "new": "Comment naît chaque projet du portfolio"
+    },
+    {
+     "type": "h",
+     "old": "Votre projet sera le prochain",
+     "new": "Votre projet, bientôt dans notre portfolio"
+    }
+   ]
+  },
+  {
+   "name": "Nos projets",
+   "paths": [
+    "nos-projets"
+   ],
+   "type": "page",
+   "kw": "nos projets",
+   "title": "Nos projets : des solutions digitales nées à Dakar",
+   "desc": "Nos projets : Bricolibe et les solutions digitales que Dave Procode conçoit et lance à Dakar pour répondre aux besoins du terrain.",
+   "edits": [
+    {
+     "type": "after",
+     "old": "Une méthode simple, appliquée à chaque idée.",
+     "new": "Nos projets naissent toujours du terrain. Avant d'écrire la moindre ligne de code, nous passons du temps avec les personnes concernées : clients, artisans, commerçants ou partenaires. Ensuite, nous lançons une première version simple, que nous améliorons à partir des retours réels. C'est ainsi qu'est né Bricolibe, et c'est la même démarche que nous appliquons à chacun de nos projets. Enfin, nous cherchons toujours à créer de la valeur localement : des emplois, des revenus pour nos partenaires et des services plus fiables pour les utilisateurs."
+    },
+    {
+     "type": "h",
+     "old": "Une idée de projet dans votre secteur ?",
+     "new": "Une idée pour rejoindre nos projets ?"
+    }
+   ]
+  },
+  {
+   "name": "Bricolibe",
+   "paths": [
+    "nos-projets/bricolibe"
+   ],
+   "type": "page",
+   "kw": "Bricolibe",
+   "title": "Bricolibe : trouvez un artisan fiable à Dakar, prix fixé",
+   "desc": "Bricolibe met en relation particuliers et entreprises avec des artisans vérifiés à Dakar, à un prix connu avant l'intervention.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "Un projet Dave Procode",
+     "new": "Bricolibe, un projet Dave Procode"
+    },
+    {
+     "type": "h",
+     "old": "Quatre étapes, zéro négociation",
+     "new": "Bricolibe en quatre étapes, <em>zéro négociation</em>"
+    },
+    {
+     "type": "h",
+     "old": "Vous êtes artisan ?",
+     "new": "Vous êtes artisan ? <em>Rejoignez Bricolibe</em>"
+    },
+    {
+     "type": "h",
+     "old": "Questions fréquentes",
+     "new": "Questions fréquentes sur <em>Bricolibe</em>"
+    },
+    {
+     "type": "p",
+     "old": "Rejoignez le réseau Bricolibe : des clients réguliers, des prix justes et aucun démarchage à faire.",
+     "new": "Rejoignez notre réseau : des clients réguliers, des prix justes et aucun démarchage à faire."
+    },
+    {
+     "type": "p",
+     "old": "Ils sont recrutés avec des maisons d'artisanat partenaires, puis vérifiés par l'équipe Bricolibe avant leur première intervention.",
+     "new": "Ils sont recrutés avec des maisons d'artisanat partenaires, puis vérifiés par notre équipe avant leur première intervention."
+    },
+    {
+     "type": "p",
+     "old": "Les tarifs sont définis par Bricolibe et ses partenaires selon le type de travaux. Vous connaissez le prix avant l'intervention.",
+     "new": "Les tarifs sont définis avec nos partenaires selon le type de travaux. Vous connaissez le prix avant l'intervention."
+    }
+   ]
+  },
+  {
+   "name": "Ventures",
+   "paths": [
+    "ventures"
+   ],
+   "type": "page",
+   "kw": "ventures",
+   "title": "Ventures : co-création de startups à Dakar | Dave Procode",
+   "desc": "Dave Procode Ventures : co-création, partenariat ou investissement. Vous avez le marché, nous avons la technologie. Proposez un projet.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "Nous nous associons à des entrepreneurs, des entreprises et des institutions pour co-créer des produits digitaux. Nous apportons la conception, le développement et l'exploitation technique ; vous apportez l'expertise métier, le réseau et le marché.",
+     "new": "Avec Dave Procode Ventures, nous nous associons à des entrepreneurs, des entreprises et des institutions pour co-créer des produits digitaux. Concrètement, nous apportons la conception, le développement et l'exploitation technique ; de votre côté, vous apportez l'expertise métier, le réseau et le marché."
+    },
+    {
+     "type": "h",
+     "old": "Choisissez la collaboration qui vous convient",
+     "new": "Ventures : <em>choisissez votre collaboration</em>"
+    },
+    {
+     "type": "h",
+     "old": "Ce que nous regardons dans un projet",
+     "new": "Ce que Ventures regarde <em>dans un projet</em>"
+    },
+    {
+     "type": "h",
+     "old": "Du projet au produit",
+     "new": "Avec Ventures, <em>du projet au produit</em>"
+    },
+    {
+     "type": "h",
+     "old": "Présentez-nous votre idée",
+     "new": "Présentez votre idée <em>à Ventures</em>"
+    },
+    {
+     "type": "after",
+     "old": "Nous étudions chaque proposition avec attention et répondons sous 7 jours.",
+     "new": "Vous préférez en parler de vive voix ? <a href=\"https://wa.me/221777234086\" target=\"_blank\" rel=\"noopener\">Écrivez-nous sur WhatsApp</a>, nous organisons un premier échange."
+    }
+   ]
+  },
+  {
+   "name": "Carrières",
+   "paths": [
+    "carrieres"
+   ],
+   "type": "page",
+   "kw": "carrières",
+   "title": "Carrières : emploi et stage à Dakar | Dave Procode",
+   "desc": "Carrières chez Dave Procode : développeurs, designers, marketeurs et stagiaires, rejoignez notre équipe à Dakar. Candidature en ligne.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "Plus qu'un emploi, une aventure",
+     "new": "Carrières : <em>plus qu'un emploi, une aventure</em>"
+    },
+    {
+     "type": "after",
+     "old": "Vous touchez à tout, apprenez vite et voyez concrètement l'impact de votre travail.",
+     "new": "Pour suivre la vie de l'équipe et découvrir nos prochaines offres, abonnez-vous à notre page <a href=\"https://www.linkedin.com/company/102593163\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>. Nous y publions nos recrutements, nos stages et les coulisses de nos projets."
+    },
+    {
+     "type": "h",
+     "old": "Les profils que nous recherchons",
+     "new": "Les carrières <em>que nous proposons</em>"
+    },
+    {
+     "type": "h",
+     "old": "Développement",
+     "new": "Carrières en développement"
+    },
+    {
+     "type": "h",
+     "old": "Stages",
+     "new": "Stages et premières carrières"
+    },
+    {
+     "type": "h",
+     "old": "Notre processus de recrutement",
+     "new": "Carrières : <em>notre processus de recrutement</em>"
+    }
+   ]
+  },
+  {
+   "name": "Qui sommes-nous (Le groupe)",
+   "paths": [
+    "a-propos"
+   ],
+   "type": "page",
+   "kw": "à propos",
+   "title": "À propos : Dave Procode, groupe digital à Dakar",
+   "desc": "À propos de Dave Procode : née à Dakar en 2023, notre équipe conçoit des solutions digitales et accompagne les entreprises africaines.",
+   "edits": [
+    {
+     "type": "p",
+     "old": "Qui sommes-nous",
+     "new": "À propos de Dave Procode"
+    },
+    {
+     "type": "h",
+     "old": "Une grande vision, née dans une petite pièce",
+     "new": "À propos de nous : <em>une grande vision née dans une petite pièce</em>"
+    },
+    {
+     "type": "h",
+     "old": "Ce qui guide chaque décision",
+     "new": "À propos de nos valeurs : <em>ce qui guide chaque décision</em>"
+    },
+    {
+     "type": "h",
+     "old": "Une équipe qui construit",
+     "new": "À propos de notre équipe"
+    },
+    {
+     "type": "after",
+     "old": "Développement, design, marketing, commercial, assistance client : une équipe pluridisciplinaire basée à Dakar, au service de vos projets.",
+     "new": "Pour en savoir plus à propos de nos projets et de notre quotidien, suivez-nous sur <a href=\"https://www.linkedin.com/company/102593163\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>. Nous y partageons nos réalisations, nos recrutements et les coulisses de l'équipe."
+    },
+    {
+     "type": "h",
+     "old": "Travaillons ensemble",
+     "new": "Une question à propos de nous ? <em>Travaillons ensemble</em>"
+    }
+   ]
+  },
+  {
+   "name": "Contact",
+   "paths": [
+    "contact"
+   ],
+   "type": "page",
+   "kw": "contact",
+   "title": "Contact : Dave Procode, solutions digitales à Dakar",
+   "desc": "Contact Dave Procode : un projet de site, d'application ou de formation ? Écrivez-nous sur WhatsApp, par téléphone ou par e-mail.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "WhatsApp",
+     "new": "Contact WhatsApp"
+    },
+    {
+     "type": "h",
+     "old": "Téléphone",
+     "new": "Contact par téléphone"
+    },
+    {
+     "type": "h",
+     "old": "Écrivez-nous",
+     "new": "Formulaire de contact"
+    },
+    {
+     "type": "after",
+     "old": "Décrivez votre besoin en quelques lignes. Plus vous êtes précis, plus notre réponse sera utile.",
+     "new": "Que vous ayez un projet de site web, d'application, de formation ou de campagne, ce formulaire de contact est le moyen le plus simple de nous écrire. Indiquez votre activité, votre objectif et, si possible, vos délais. Ensuite, un membre de l'équipe vous répond sous 48 h ouvrées avec des premières recommandations. Vous préférez un échange rapide ? Dans ce cas, le contact par WhatsApp reste le plus direct, du lundi au vendredi."
+    },
+    {
+     "type": "h",
+     "old": "Notre bureau à Dakar",
+     "new": "Contact : <em>notre bureau à Dakar</em>"
+    }
+   ]
+  },
+  {
+   "name": "Article : C'est quoi la charte graphique",
+   "paths": [
+    "tout-comprendre-sur-la-charte-graphique"
+   ],
+   "type": "post",
+   "kw": "charte graphique",
+   "title": "Charte graphique : définition, contenu et exemples",
+   "desc": "C'est quoi une charte graphique ? Définition, éléments indispensables (logo, couleurs, typographies) et exemples concrets.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "1. qu’est-ce que la charte graphique",
+     "new": "1. Qu’est-ce que la charte graphique ?"
+    },
+    {
+     "type": "p",
+     "old": "Revenons en arrière sur l’étymologie du terme “Charte graphique”. Le mot “charte” du latin ‘’charta’’ signifie “papier”, et le terme graphique du latin “graphicus” signifie ‘’écriture”. La charte graphique est donc un document regroupant toutes les informations formant l’identité visuelle de votre marque ou de votre entreprise en intégrant plusieurs éléments graphiques définissant votre identité et des règles d’utilisation de ces éléments afin de garder une cohérence fluide dans votre communication visuelle.",
+     "new": "Revenons d’abord sur l’étymologie du terme « charte graphique ». Le mot « charte » vient du latin charta, qui signifie « papier ». De son côté, « graphique » vient du latin graphicus, qui signifie « écriture ». Ainsi, la charte graphique est un document qui regroupe tous les éléments de l’identité visuelle de votre marque. Elle fixe aussi leurs règles d’utilisation, afin de garder une communication visuelle cohérente."
+    },
+    {
+     "type": "p",
+     "old": "La charte graphique sera donc composée de plusieurs éléments tels que le logo, les typographies officielles que vous utiliserez, les codes couleurs que composent votre identité visuelle, l’iconographie et bien d’autres… ainsi que les proportions et règles d’utilisations de ces différents éléments.",
+     "new": "Concrètement, elle réunit plusieurs éléments : le logo, les typographies officielles, les codes couleurs de votre identité visuelle et l’iconographie. En outre, elle précise les proportions et les règles d’utilisation de chacun de ces éléments."
+    },
+    {
+     "type": "p",
+     "old": "La création d’une charte graphique doit être conçue par un graphiste professionnel ou par une agence digitale. Traitons donc en détail les éléments qui nous permettront de mettre en lumière la fameuse question sur « c’est quoi la charte graphique ? ».",
+     "new": "Idéalement, c’est un graphiste professionnel ou un studio spécialisé qui crée la charte graphique. Voyons donc en détail les éléments qui permettent de répondre à la question « c’est quoi la charte graphique ? »."
+    },
+    {
+     "type": "p",
+     "old": "Le logotype, dans sa forme abrégée logo, est un élément graphique servant à reconnaître d’un seul regard l’identité d’une marque ou d’une entreprise. Le logo joue un rôle d’identificateur premier d’une entreprise en un seul coup d’œil . C’est un graphique très important et qui devrait être unique pour chaque entreprise. On ne devrait pas trouver deux entreprises ayant identiquement un même logo, cette dernière doit être unique et refléter de façon très singulière l’image de l’entreprise. Chaque entreprise ou marque devrait créer son propre logo.",
+     "new": "Le logotype, ou logo dans sa forme abrégée, est un élément graphique qui permet de reconnaître une marque d’un seul regard. En effet, il joue le rôle de premier identifiant de l’entreprise. C’est pourquoi chaque entreprise doit avoir un logo unique. Deux entreprises ne devraient jamais partager le même logo. Au contraire, chaque logo doit refléter de façon singulière l’image de la marque qu’il représente."
+    },
+    {
+     "type": "p",
+     "old": "Il est pertinent pour une entreprise d’être reconnue visuellement d’un coup d’œil grâce à la combinaison des couleurs que compose son support de communication. Ça peut être sur le logo, un dépliant, carte de visite, flyers, les couleurs identifient facilement l’entreprise concernée.",
+     "new": "Grâce à une palette bien choisie, vos clients reconnaissent votre entreprise d’un coup d’œil. Par exemple, sur un logo, un dépliant, une carte de visite ou un flyer, les couleurs identifient immédiatement la marque."
+    },
+    {
+     "type": "p",
+     "old": "Il est donc une nécessité pour toute entreprise voulant se distinguer des autres de se créer une cohérence unique dans l’association des différentes couleurs composant sa palette.",
+     "new": "Par conséquent, toute entreprise qui veut se distinguer doit créer une association de couleurs cohérente et unique."
+    },
+    {
+     "type": "p",
+     "old": "Les polices d’écriture sont souvent inspirées des cultures , des arts , des histoires ou évènements… D’où il est très important pour les organisations de faire le bon choix adapté à leur valeur et leurs activités.",
+     "new": "Les polices d’écriture s’inspirent souvent des cultures, des arts, de l’histoire ou de certains événements. C’est pourquoi les organisations doivent choisir des polices adaptées à leurs valeurs et à leurs activités."
+    },
+    {
+     "type": "p",
+     "old": "Enfin comprendre c’est quoi la charte graphique devrait être une notion fondamentale pour toute entreprise. Obtenez un devis personnalisé en contactant notre agence digitale qualifiée.",
+     "new": "Enfin, comprendre ce qu’est une charte graphique est essentiel pour toute entreprise. Vous souhaitez créer la vôtre ? Demandez un <a href=\"/services/#devis\">devis personnalisé</a> à notre équipe."
+    },
+    {
+     "type": "h",
+     "old": "b. La palette des couleurs",
+     "new": "b. La palette des couleurs de la charte graphique"
+    },
+    {
+     "type": "h",
+     "old": "C. Les typographies",
+     "new": "c. Les typographies de la charte graphique"
+    },
+    {
+     "type": "after",
+     "old": "De ce fait, ces polices de caractères choisies se répètent sur chaque support de communication de l’entreprise.",
+     "new": "Pour trouver et tester des polices, la bibliothèque gratuite <a href=\"https://fonts.google.com/\" target=\"_blank\" rel=\"noopener\">Google Fonts</a> propose des centaines de typographies utilisables sur le web comme sur vos documents."
+    }
+   ]
+  },
+  {
+   "name": "Article : Différence entre UI et UX design",
+   "paths": [
+    "difference-entre-ui-et-ux-design"
+   ],
+   "type": "post",
+   "kw": "différence entre UI et UX design",
+   "title": "Différence entre UI et UX design : explications simples",
+   "desc": "Quelle est la différence entre UI et UX design ? Interface et expérience utilisateur expliquées simplement, avec des exemples.",
+   "edits": [
+    {
+     "type": "h",
+     "old": "3. La complémentarité du UI et UX Design",
+     "new": "3. La différence entre UI et UX design, et leur complémentarité"
+    },
+    {
+     "type": "h",
+     "old": "4. Les technologies utilisées par un Designer UI ou UX",
+     "new": "4. Différence entre UI et UX design : les outils utilisés"
+    },
+    {
+     "type": "h",
+     "old": "5. Conclusion",
+     "new": "5. Conclusion sur la différence entre UI et UX design"
+    }
+   ]
+  }
+ ]
+}
