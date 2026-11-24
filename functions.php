@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'DP_VERSION', '1.4.5' );
+define( 'DP_VERSION', '1.4.6' );
 define( 'DP_DIR', get_stylesheet_directory() );
 define( 'DP_URI', get_stylesheet_directory_uri() );
 

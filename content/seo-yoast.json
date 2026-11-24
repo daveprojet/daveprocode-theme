@@ -1,5 +1,5 @@
 {
- "version": "2026-11-18",
+ "version": "2026-11-24",
  "pages": [
   {
    "name": "Accueil",
@@ -922,76 +922,15 @@
    ]
   },
   {
-   "name": "Article : C'est quoi la charte graphique",
+   "name": "Article : Charte graphique (guide 2026)",
    "paths": [
     "tout-comprendre-sur-la-charte-graphique"
    ],
    "type": "post",
    "kw": "charte graphique",
-   "title": "Charte graphique : définition, contenu et exemples",
-   "desc": "C'est quoi une charte graphique ? Définition, éléments indispensables (logo, couleurs, typographies) et exemples concrets.",
-   "edits": [
-    {
-     "type": "h",
-     "old": "1. qu’est-ce que la charte graphique",
-     "new": "1. Qu’est-ce que la charte graphique ?"
-    },
-    {
-     "type": "p",
-     "old": "Revenons en arrière sur l’étymologie du terme “Charte graphique”. Le mot “charte” du latin ‘’charta’’ signifie “papier”, et le terme graphique du latin “graphicus” signifie ‘’écriture”. La charte graphique est donc un document regroupant toutes les informations formant l’identité visuelle de votre marque ou de votre entreprise en intégrant plusieurs éléments graphiques définissant votre identité et des règles d’utilisation de ces éléments afin de garder une cohérence fluide dans votre communication visuelle.",
-     "new": "Revenons d’abord sur l’étymologie du terme « charte graphique ». Le mot « charte » vient du latin charta, qui signifie « papier ». De son côté, « graphique » vient du latin graphicus, qui signifie « écriture ». Ainsi, la charte graphique est un document qui regroupe tous les éléments de l’identité visuelle de votre marque. Elle fixe aussi leurs règles d’utilisation, afin de garder une communication visuelle cohérente."
-    },
-    {
-     "type": "p",
-     "old": "La charte graphique sera donc composée de plusieurs éléments tels que le logo, les typographies officielles que vous utiliserez, les codes couleurs que composent votre identité visuelle, l’iconographie et bien d’autres… ainsi que les proportions et règles d’utilisations de ces différents éléments.",
-     "new": "Concrètement, elle réunit plusieurs éléments : le logo, les typographies officielles, les codes couleurs de votre identité visuelle et l’iconographie. En outre, elle précise les proportions et les règles d’utilisation de chacun de ces éléments."
-    },
-    {
-     "type": "p",
-     "old": "La création d’une charte graphique doit être conçue par un graphiste professionnel ou par une agence digitale. Traitons donc en détail les éléments qui nous permettront de mettre en lumière la fameuse question sur « c’est quoi la charte graphique ? ».",
-     "new": "Idéalement, c’est un graphiste professionnel ou un studio spécialisé qui crée la charte graphique. Voyons donc en détail les éléments qui permettent de répondre à la question « c’est quoi la charte graphique ? »."
-    },
-    {
-     "type": "p",
-     "old": "Le logotype, dans sa forme abrégée logo, est un élément graphique servant à reconnaître d’un seul regard l’identité d’une marque ou d’une entreprise. Le logo joue un rôle d’identificateur premier d’une entreprise en un seul coup d’œil . C’est un graphique très important et qui devrait être unique pour chaque entreprise. On ne devrait pas trouver deux entreprises ayant identiquement un même logo, cette dernière doit être unique et refléter de façon très singulière l’image de l’entreprise. Chaque entreprise ou marque devrait créer son propre logo.",
-     "new": "Le logotype, ou logo dans sa forme abrégée, est un élément graphique qui permet de reconnaître une marque d’un seul regard. En effet, il joue le rôle de premier identifiant de l’entreprise. C’est pourquoi chaque entreprise doit avoir un logo unique. Deux entreprises ne devraient jamais partager le même logo. Au contraire, chaque logo doit refléter de façon singulière l’image de la marque qu’il représente."
-    },
-    {
-     "type": "p",
-     "old": "Il est pertinent pour une entreprise d’être reconnue visuellement d’un coup d’œil grâce à la combinaison des couleurs que compose son support de communication. Ça peut être sur le logo, un dépliant, carte de visite, flyers, les couleurs identifient facilement l’entreprise concernée.",
-     "new": "Grâce à une palette bien choisie, vos clients reconnaissent votre entreprise d’un coup d’œil. Par exemple, sur un logo, un dépliant, une carte de visite ou un flyer, les couleurs identifient immédiatement la marque."
-    },
-    {
-     "type": "p",
-     "old": "Il est donc une nécessité pour toute entreprise voulant se distinguer des autres de se créer une cohérence unique dans l’association des différentes couleurs composant sa palette.",
-     "new": "Par conséquent, toute entreprise qui veut se distinguer doit créer une association de couleurs cohérente et unique."
-    },
-    {
-     "type": "p",
-     "old": "Les polices d’écriture sont souvent inspirées des cultures , des arts , des histoires ou évènements… D’où il est très important pour les organisations de faire le bon choix adapté à leur valeur et leurs activités.",
-     "new": "Les polices d’écriture s’inspirent souvent des cultures, des arts, de l’histoire ou de certains événements. C’est pourquoi les organisations doivent choisir des polices adaptées à leurs valeurs et à leurs activités."
-    },
-    {
-     "type": "p",
-     "old": "Enfin comprendre c’est quoi la charte graphique devrait être une notion fondamentale pour toute entreprise. Obtenez un devis personnalisé en contactant notre agence digitale qualifiée.",
-     "new": "Enfin, comprendre ce qu’est une charte graphique est essentiel pour toute entreprise. Vous souhaitez créer la vôtre ? Demandez un <a href=\"/services/#devis\">devis personnalisé</a> à notre équipe."
-    },
-    {
-     "type": "h",
-     "old": "b. La palette des couleurs",
-     "new": "b. La palette des couleurs de la charte graphique"
-    },
-    {
-     "type": "h",
-     "old": "C. Les typographies",
-     "new": "c. Les typographies de la charte graphique"
-    },
-    {
-     "type": "after",
-     "old": "De ce fait, ces polices de caractères choisies se répètent sur chaque support de communication de l’entreprise.",
-     "new": "Pour trouver et tester des polices, la bibliothèque gratuite <a href=\"https://fonts.google.com/\" target=\"_blank\" rel=\"noopener\">Google Fonts</a> propose des centaines de typographies utilisables sur le web comme sur vos documents."
-    }
-   ]
+   "title": "Charte graphique : définition, contenu et exemples en 2026",
+   "desc": "C'est quoi une charte graphique ? Définition, contenu en 2026 (logo, couleurs, typographies, IA) et méthode pour créer la vôtre.",
+   "edits": []
   },
   {
    "name": "Article : Différence entre UI et UX design",
