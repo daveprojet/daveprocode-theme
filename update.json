@@ -1,8 +1,8 @@
 {
-  "version": "1.4.5",
-  "package": "https://github.com/daveprojet/daveprocode-theme/archive/refs/heads/version-1.4.5.zip",
-  "url": "https://github.com/daveprojet/daveprocode-theme/tree/version-1.4.5",
+  "version": "1.4.6",
+  "package": "https://github.com/daveprojet/daveprocode-theme/archive/refs/heads/version-1.4.6.zip",
+  "url": "https://github.com/daveprojet/daveprocode-theme/tree/version-1.4.6",
   "requires": "6.6",
   "requires_php": "7.4",
-  "notes": "Mises à jour en un clic, bouton Yoast, bandeau de logos clients, correctifs d'affichage."
+  "notes": "Article charte graphique mis à jour (guide 2026) et champs Yoast associés"
 }
